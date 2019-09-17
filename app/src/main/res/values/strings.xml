@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPA_casek_Calculator</string>
+    <string name="status_class1" >Class One:</string>
+    <string name="status_class2">Class Two:</string>
+    <string name="status_class3">Class Three:</string>
+    <string name="status_class4">Class Four:</string>
+    <string name ="status_class5">Class Five:</string>
+    <string name="class_default">Enter Grade Here</string>
+    <string name="empty"></string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_calc">Compute GPA</string>
+    <string name="switch_on">Class Active</string>
+    <string name="switch_off">Class Not Active</string>
+    <string name="switch_label">On/Off</string>
+    <string name="result_error">Error: Please adjust your input values</string>
+</resources>
